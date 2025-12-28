@@ -64,18 +64,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Rushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Rushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushilsscode&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilsscode&layout=compact&theme=dark)
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Connect
 
-- 💼 LinkedIn: www.linkedin.com/in/rushil-khare-043675207
-- 📧 Email: rushilkhare23@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushil%20Khare-blue?logo=linkedin)](https://www.linkedin.com/in/rushil-khare-043675207)
+[![Email](https://img.shields.io/badge/Email-rushilkhare23@gmail.com-red?logo=gmail)](mailto:rushilkhare23@gmail.com)
 
 ---
 
