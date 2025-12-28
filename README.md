@@ -64,14 +64,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Rushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushilsscode&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilsscode&layout=compact&theme=dark)
-
----
-
 ## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushil%20Khare-blue?logo=linkedin)](https://www.linkedin.com/in/rushil-khare-043675207)
